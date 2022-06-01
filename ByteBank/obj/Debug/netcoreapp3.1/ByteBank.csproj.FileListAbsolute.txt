@@ -1,0 +1,14 @@
+C:\Users\amanda.ribeiro\source\repos\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.exe
+C:\Users\amanda.ribeiro\source\repos\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.deps.json
+C:\Users\amanda.ribeiro\source\repos\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.json
+C:\Users\amanda.ribeiro\source\repos\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\source\repos\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\amanda.ribeiro\source\repos\ByteBank\bin\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.dll
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.pdb
+C:\Users\amanda.ribeiro\source\repos\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.genruntimeconfig.cache
